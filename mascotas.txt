@@ -1,0 +1,5 @@
+nombre
+raza
+edad
+peso
+se cambio el código desde git remoto.
